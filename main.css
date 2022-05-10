@@ -1,0 +1,13 @@
+@font-face {
+	font-family: good;
+	src: url(./poppins/Poppins-Medium.ttf);
+}
+
+.test {
+	font-family: good;
+}
+
+.textaling {
+	font-family: good;
+	text-align: center;
+}
