@@ -7,9 +7,9 @@ let main = [
 	"stopit",
 	"stop",
 ];
-randomnumberr = 0;
+let randomnumberr = 0;
 function getrandomword() {
 	randomnumberr = Math.floor(Math.random() * main.length);
 	console.log(main[randomnumberr]);
-	document.getElementById("vieww").innerHTML = main[randomnumberr];
+	document.getElementById("display-text").innerHTML = main[randomnumberr];
 }

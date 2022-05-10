@@ -1,0 +1,26 @@
+@font-face {
+	font-family: good;
+	src: url(/poppins/Poppins-Medium.ttf);
+}
+
+* {
+	text-align: center;
+	font-family: good;
+}
+
+.textsize {
+	font-size: 20px;
+}
+.buttons:hover {
+	box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+		0 17px 50px 0 rgba(0, 0, 0, 0.19);
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+.buttons {
+	border: none;
+	padding: 15px 32px;
+	font-size: 16px;
+	cursor: pointer;
+}
