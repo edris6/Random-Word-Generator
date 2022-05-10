@@ -1,11 +1,11 @@
 let main = [
-	"hey",
-	"what",
-	"whatttt",
-	"ihavenoideas",
-	"noooo",
-	"stopit",
-	"stop",
+	"Excalibur",
+	"Gramr",
+	"Zulfiqar",
+	"Durendal",
+	"Harpe",
+	"Ame-no-Habakiri",
+	"Kusanagi-no-Tsurugi",
 ];
 let randomnumberr = 0;
 function getrandomword() {
