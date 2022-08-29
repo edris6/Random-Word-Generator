@@ -8,7 +8,7 @@ If you would like to contribute just add random sword names into the **array / l
 
 # Question
 
-**Why Swords**
+### Why Swords
 Look at the url
 
 # Hosting
